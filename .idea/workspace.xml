@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7995635-f803-45e0-bbd7-6966ae66e71d" name="Default Changelist" comment="部分修改" />
+    <list default="true" id="b7995635-f803-45e0-bbd7-6966ae66e71d" name="Default Changelist" comment="部分修改">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/page/fore/orderListPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/page/fore/orderListPage.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -364,6 +367,7 @@
       <workItem from="1644553163139" duration="473000" />
       <workItem from="1644624043973" duration="205000" />
       <workItem from="1644833853042" duration="9000" />
+      <workItem from="1649335289705" duration="2869000" />
     </task>
     <task id="LOCAL-00001" summary="数据库部分修改">
       <created>1644504476304</created>

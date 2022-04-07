@@ -163,6 +163,9 @@
                                         <td class="td_order_content"
                                             rowspan="${fn:length(requestScope.productOrderItemList)}">
                                             <span class="span_order_status" title="交易成功">交易成功</span>
+                                            <p class="order_close"><a class="order_close" href="javascript:void(0)"
+                                                                      onclick="closeOrder('${productOrder.productOrder_code}')">申请退货</a>
+                                            </p>
                                         </td>
                                     </c:when>
                                     <c:otherwise>
